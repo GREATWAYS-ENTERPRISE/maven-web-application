@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ebay-bts-app</finalName>
+		<finalName>maven-web-app</finalName>
 		
 		<plugins>
 			<plugin>
